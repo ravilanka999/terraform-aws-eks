@@ -7,7 +7,7 @@ variable "environment" {
 }
 
 variable "zone_id" {
-    default = "Z032558618100M4EJX8X4"
+    default = "Z<YOUR_AWS_ACCOUNT_ID>M4EJX8X4"
 }
 
 variable "zone_name" {
